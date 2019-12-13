@@ -1,10 +1,5 @@
 pom.xml
 ReadMe.txt
 1.iml
-<<<<<<< HEAD
 .idea/*
 target/*
-=======
-.idea/
-target/
->>>>>>> ec3a1dcb08ef27b20fb425b82b36efa5e31379f9
